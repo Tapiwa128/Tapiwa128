@@ -23,6 +23,15 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />  
 </p>  
 
+### **🎨 UI/UX Design Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
 ### **⚙️ DevOps & Tools**  
 <p align="left">  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
@@ -43,8 +52,6 @@
 | **[Task Manager (Flutter)](https://github.com/yourlink)** | Flutter, Dart, Hive | [Live Demo](https://yourdemo.link) |  
 | **[CI/CD Pipeline](https://github.com/yourlink)** | GitHub Actions, Docker | - |  
 
-
-
 ---
 
 ## **📊 GitHub Stats & Activity**  
@@ -60,19 +67,19 @@
 
 ---
 
-## **📫 Let’s Connect!**  
+## **📫 Let's Connect!**  
 
 <p align="center">  
-  <a href="https://linkedin.com/in/yourprofile">  
+  <a href="https://linkedin.com/in/tapiwa-makuzha-3a9b5b1b5/">  
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />  
   </a>  
-  <a href="https://twitter.com/yourhandle">  
+  <a href="https://twitter.com/TapiwaMakuzha">  
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
   </a>  
-  <a href="mailto:youremail@example.com">  
+  <a href="mailto:tapiwa.makuzha@gmail.com">  
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />  
   </a>  
-  <a href="https://yourportfolio.com">  
+  <a href="https://tapiwamakuzha.vercel.app">  
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" />  
   </a>  
 </p>  
