@@ -42,6 +42,10 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />  
 </p>  
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tapiwa128&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## **🚀 Featured Projects**  
