@@ -43,7 +43,7 @@
 | **[Task Manager (Flutter)](https://github.com/yourlink)** | Flutter, Dart, Hive | [Live Demo](https://yourdemo.link) |  
 | **[CI/CD Pipeline](https://github.com/yourlink)** | GitHub Actions, Docker | - |  
 
-*(Replace with your projects!)*  
+
 
 ---
 
