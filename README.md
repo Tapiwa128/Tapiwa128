@@ -42,11 +42,30 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />  
 </p>  
 
-
+### **⭐ GitHub trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tapiwa128&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+
+
+
+
+## **📊 GitHub Stats & Activity**  
+
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tapiwa128&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tapiwa128&layout=compact&theme=radical&hide_border=true)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tapiwa128&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+
+
+
+---
+
+
 
 ## **🚀 Featured Projects**  
 
@@ -55,19 +74,6 @@
 | **[E-Commerce App](https://github.com/yourlink)** | React, Tailwind, Firebase | [Live Demo](https://frankappleinc.co.zw) |  
 | **[Task Manager (Flutter)](https://github.com/yourlink)** | Flutter, Dart, Hive | [Live Demo](https://yourdemo.link) |  
 | **[CI/CD Pipeline](https://github.com/yourlink)** | GitHub Actions, Docker | - |  
-
----
-
-## **📊 GitHub Stats & Activity**  
-
-<div align="center">  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tapiwa128&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tapiwa128&layout=compact&theme=radical&hide_border=true)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tapiwa128&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-
-</div>  
 
 ---
 
@@ -90,8 +96,9 @@
 
 ---
 
+
 <div align="center">  
 
-✨ *"First, solve the problem. Then, write the code."* – **John Johnson**  
+ *"Clear thinking is the cornerstone of effective programming not typing speed."* – **Tapiwa Makuzha**  
 
 </div>  
