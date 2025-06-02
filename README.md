@@ -1,7 +1,7 @@
 <div align="center">
 
-# **👨‍💻 Hi, I’m Tapiwa Makuzha**  
-### *Frontend Developer | React & Flutter Expert | DevOps Explorer*  
+# **👨‍💻 Hi, I’m DEng Tapiwa Makuzha**  
+### *Software Engineer | Frontend Developer | React & Flutter Expert | DevOps Explorer*  
 
 🚀 Building pixel-perfect UIs and scalable apps with modern tech.  
 🔧 Automating workflows with CI/CD, Docker, and Cloud.  
