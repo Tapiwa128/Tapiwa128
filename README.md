@@ -39,7 +39,7 @@
 
 | Project | Tech Stack | Live Demo |  
 |---------|------------|-----------|  
-| **[E-Commerce App](https://github.com/yourlink)** | React, Tailwind, Firebase | [Live Demo](https://yourdemo.link) |  
+| **[E-Commerce App](https://github.com/yourlink)** | React, Tailwind, Firebase | [Live Demo](https://frankappleinc.co.zw) |  
 | **[Task Manager (Flutter)](https://github.com/yourlink)** | Flutter, Dart, Hive | [Live Demo](https://yourdemo.link) |  
 | **[CI/CD Pipeline](https://github.com/yourlink)** | GitHub Actions, Docker | - |  
 
