@@ -64,18 +64,8 @@
 
 
 
-## **📊 GitHub Stats & Activity**  
 
 
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tapiwa128&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tapiwa128&layout=compact&theme=radical&hide_border=true)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tapiwa128&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-
-
-
----
 
 
 
